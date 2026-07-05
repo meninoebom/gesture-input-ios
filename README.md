@@ -1,5 +1,7 @@
 # Gesture Input iOS
 
+> **ARCHIVED (July 2026).** Planning-only repo; no code was built. SOMI-1 wearables (shipped, sensors live) now fill the wearable-IMU input role. Plans remain readable here if iPhone/Watch input is ever revived.
+
 Stream IMU sensor data from iPhone and Apple Watch to RALF Gesture Studio via WebSocket for real-time gesture recognition.
 
 ## Overview
